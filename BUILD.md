@@ -17,7 +17,7 @@ Instructions for building this repository on your machines.
 sudo apt install git build-essential pkg-config cmake cmake-data libsdl2-dev libsdl2-image-dev libsdl2-gfx-dev
 ```
 
-**Optional packages:**
+This project also use this libraries:
 
 - [SDL2_ttf][] library
 - [SDL2_net][] library
