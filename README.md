@@ -44,6 +44,8 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 
 ## Dependencies
 
+For the Dependencies and the build you can directly see them in [Build](BUILD.md)
+
 - [Git][]
 - C Compiler (gcc, ...)
 - [CMake][]
@@ -57,7 +59,7 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 sudo apt install git build-essential pkg-config cmake cmake-data libsdl2-dev libsdl2-image-dev libsdl2-gfx-dev
 ```
 
-**Optional packages:**
+This also use this libraries:
 
 - [SDL2_ttf][] library
 - [SDL2_net][] library
