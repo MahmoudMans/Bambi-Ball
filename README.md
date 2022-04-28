@@ -97,7 +97,7 @@ See [IDE_USAGE.md](IDE_USAGE.md) for details.
 
 ## License
 
-Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
+Authors: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
 
 [Mahmoud Mansouri]
 
