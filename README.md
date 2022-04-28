@@ -1,7 +1,7 @@
 # SQL2 Based game - BambiBall
 
-(gamesdl.PNG)
-
+![gamesdl](https://user-images.githubusercontent.com/57843834/165837709-9c2fdecf-7abb-4ad3-bfd4-3727b60023f4.PNG)
+ 
 This project is written in C and uses [CMake][] as a build system.<br>
 It shows how we can make a basic animation using [SDL2][sdl] : A ball moving in a map.
 
