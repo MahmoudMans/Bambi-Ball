@@ -59,7 +59,7 @@ For the Dependencies and the build you can directly see them in [Build](BUILD.md
 sudo apt install git build-essential pkg-config cmake cmake-data libsdl2-dev libsdl2-image-dev libsdl2-gfx-dev
 ```
 
-This also use this libraries:
+This project also use this libraries:
 
 - [SDL2_ttf][] library
 - [SDL2_net][] library
