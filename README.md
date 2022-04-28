@@ -1,8 +1,9 @@
-# Flying plane SDL2 animation
+# SQL2 Based game - BambiBall
+
+(gamesdl.PNG)
 
 This project is written in C and uses [CMake][] as a build system.<br>
-It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
-
+It shows how we can make a basic animation using [SDL2][sdl] : A ball moving in a map.
 
 It could be used as a base for any SDL2 game. Just fork it, clone it and
 execute the `rename_project.sh` script. You will be prompted to enter the new
@@ -10,12 +11,43 @@ project name, the new executable name and the new git repository, but you can
 keep the autodetected values. Finally, just commit and push the result to your
 repository.
 
+# Description
+
+This game was developed during the ISS Course project during my Freshman year at the
+Mediterranean Institue of Technology (Medtech). In this game, the player will play with
+a ball called Bambi and will have to travel over the map to finish the level and win.
+
+# Authors / Original developers
+
+The project was originally developed by:
+
+- [Amine Ben Hassouna](https://github.com/aminosbh)
+- [Mahmoud Mansouri][]
+- [Mohamed Achref Liratni][]
+
+# Contributing
+
+Thank you for your interest in our project. There are many ways to contribute,
+and we appreciate all of them :
+
+- Source Code
+- Unit tests
+- Bug Reports
+- Documentation
+- Localization
+- etc
+
+Do not hesitate to open a pull request of you find an error or if you want to add
+a features.
+
+Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
+
 ## Dependencies
 
 - [Git][]
 - C Compiler (gcc, ...)
 - [CMake][]
-- [SDL2][SDL] library
+- [SDL2][sdl] library
 - [SDL2_image][] library
 - [SDL2_gfx][] library
 
@@ -54,7 +86,7 @@ make
 ./flying-plane-sdl-animation
 ```
 
-***Note:*** To use SDL2_ttf, SDL2_net or SDL2_mixer, you should uncomment some
+**_Note:_** To use SDL2_ttf, SDL2_net or SDL2_mixer, you should uncomment some
 instructions in the CMakeLists.txt file and re-execute the `make` command.
 
 ### Open the project with an IDE under Linux
@@ -64,30 +96,31 @@ See [IDE_USAGE.md](IDE_USAGE.md) for details.
 ## License
 
 Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
+[Mahmoud Mansouri]
+[Mohamed Achref Liratni]
 
 This project is distributed under the terms of the MIT license
 [&lt;LICENSE&gt;](LICENSE).
-
 
 The images under the assets directory are distributed under different licenses:
 
 - `plane.png` and `plane-shadow.png`:<br>
   Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)<br>
-  License: [Creative Commons Attribution 4.0 International License.][CCBY]
+  License: [Creative Commons Attribution 4.0 International License.][ccby]
 
 - `ocean.jpg`:<br>
   Author: [the3rdSequence.com](https://www.the3rdsequence.com)<br>
-  License: [Creative Commons Attribution 4.0 International License.][CCBY]<br>
+  License: [Creative Commons Attribution 4.0 International License.][ccby]<br>
   Site: https://www.the3rdsequence.com/texturedb/texture/23/sea+water
 
-
-
-[SDL]: https://www.libsdl.org
-[CMake]: https://cmake.org
-[Git]: https://git-scm.com
-[SDL2_image]: https://www.libsdl.org/projects/SDL_image
-[SDL2_ttf]: https://www.libsdl.org/projects/SDL_ttf
-[SDL2_net]: https://www.libsdl.org/projects/SDL_net
-[SDL2_mixer]: https://www.libsdl.org/projects/SDL_mixer
-[SDL2_gfx]: http://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx
-[CCBY]: http://creativecommons.org/licenses/by/4.0/
+[sdl]: https://www.libsdl.org
+[cmake]: https://cmake.org
+[git]: https://git-scm.com
+[sdl2_image]: https://www.libsdl.org/projects/SDL_image
+[sdl2_ttf]: https://www.libsdl.org/projects/SDL_ttf
+[sdl2_net]: https://www.libsdl.org/projects/SDL_net
+[sdl2_mixer]: https://www.libsdl.org/projects/SDL_mixer
+[sdl2_gfx]: http://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx
+[ccby]: http://creativecommons.org/licenses/by/4.0/
+[mohamed achref liratni]: https://github.com/MohamedLiratni
+[mahmoud mansouri]: https://github.com/MahmoudMans

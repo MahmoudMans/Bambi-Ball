@@ -1,5 +1,7 @@
 # MIT license
 
+Copyright (c) 2019, 2020 Mahmoud Mansouri <mahmoud.mansouri@medtech.tn>
+Copyright (c) 2019, 2020 Mohamed Achref Liratni <mohamedachraf.liratni@medtech.tn>
 Copyright (c) 2018, 2019 Amine Ben Hassouna <amine.benhassouna@gmail.com>
 All rights reserved.
 
@@ -27,9 +29,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
 IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 
-
------------------------------------------------------------------------
-
+---
 
 The images under the assets directory are distributed under
 different licenses:
@@ -37,12 +37,11 @@ different licenses:
 - `plane.png` and `plane-shadow.png`:
   Author: Amine Ben Hassouna <amine.benhassouna@gmail.com>
   License: Creative Commons Attribution 4.0 International License.
-           http://creativecommons.org/licenses/by/4.0/
+  http://creativecommons.org/licenses/by/4.0/
   Site: https://gitlab.com/aminosbh
 
 - `ocean.jpg`:
   Author: the3rdSequence.com
   License: Creative Commons Attribution 4.0 International License.
-           http://creativecommons.org/licenses/by/4.0/
+  http://creativecommons.org/licenses/by/4.0/
   Site: https://www.the3rdsequence.com/texturedb/texture/23/sea+water
-
