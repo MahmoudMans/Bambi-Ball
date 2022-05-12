@@ -1,4 +1,4 @@
-# SQL2 Based game - BambiBall
+# SDL2 Based game - BambiBall
 
 ![gamesdl](https://user-images.githubusercontent.com/57843834/165837709-9c2fdecf-7abb-4ad3-bfd4-3727b60023f4.PNG)
  
