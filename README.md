@@ -44,7 +44,7 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 
 ## Dependencies
 
-For the Dependencies and the build you can directly see them in [Build](BUILD.md)
+For the Dependencies and the build you can directly see them in the [Build](BUILD.md) file.
 
 - [Git][]
 - C Compiler (gcc, ...)
